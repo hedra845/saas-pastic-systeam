@@ -1,0 +1,61 @@
+{
+  "factoryName": "النجمة بلاست",
+  "plasticTonPrice": 0.0,
+  "todayOrdersCount": 0,
+  "products": [
+    {
+      "id": "test-stock-1",
+      "name": "كيس تعبئة سكر",
+      "category": "أكياس",
+      "materialType": "LDPE",
+      "totalProducedKg": 2000.0,
+      "defaultBatchKg": 2000.0,
+      "totalWasteKg": 50.0,
+      "rawMaterialExpenses": 0.0,
+      "laborAndElectricityExpenses": 4000.0,
+      "laborCostPerKg": 2.0,
+      "totalExpenses": 4000.0,
+      "wholesalePricePerKg": 30.0,
+      "retailPricePerKg": 35.0,
+      "stockKg": 1000.0,
+      "minWholesaleQtyKg": 100.0,
+      "notes": null,
+      "rawMaterials": [],
+      "createdAt": "2026-09-10T10:00:00.000",
+      "stockAdditions": [
+        {
+          "id": "sa-init-test-stock-1",
+          "date": "2026-09-10T10:00:00.000",
+          "quantityKg": 1000.0,
+          "previousStockKg": 0.0,
+          "newStockKg": 1000.0,
+          "notes": "الرصيد الافتتاحي (الإضافة الأولى)"
+        }
+      ]
+    }
+  ],
+  "rawMaterials": [],
+  "productRawMaterials": [],
+  "batches": [],
+  "wasteRecords": [],
+  "expenses": [
+    {
+      "id": "exp-1790549720272",
+      "title": "تكلفة ومصروفات إنتاج: كيس تعبئة سكر",
+      "category": "المواد الخام",
+      "amount": 4000.0,
+      "date": "2026-09-28T01:55:20.272071",
+      "notes": null,
+      "relatedProductId": "test-stock-1"
+    }
+  ],
+  "employees": [],
+  "employeeAdvances": [],
+  "salaryPayments": [],
+  "suppliers": [],
+  "distributors": [],
+  "saleOrders": [],
+  "stocktakeRecords": [],
+  "treasuryTransactions": [],
+  "materialSupplyOrders": []
+}

@@ -1,0 +1,33 @@
+{
+  "factoryName": "النجمة بلاست",
+  "plasticTonPrice": 0.0,
+  "todayOrdersCount": 0,
+  "products": [],
+  "rawMaterials": [],
+  "productRawMaterials": [],
+  "batches": [],
+  "wasteRecords": [],
+  "expenses": [],
+  "employees": [
+    {
+      "id": "emp-new",
+      "name": "فني جديد معتمد",
+      "role": "فني مقصات",
+      "department": "قسم التقطيع",
+      "shift": "صباحية",
+      "monthlySalary": 7200.0,
+      "phone": null,
+      "machineAssigned": null,
+      "status": "على رأس العمل",
+      "hireDate": "2026-09-28T01:54:59.363155"
+    }
+  ],
+  "employeeAdvances": [],
+  "salaryPayments": [],
+  "suppliers": [],
+  "distributors": [],
+  "saleOrders": [],
+  "stocktakeRecords": [],
+  "treasuryTransactions": [],
+  "materialSupplyOrders": []
+}
